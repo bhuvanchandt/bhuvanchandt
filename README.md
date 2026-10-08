@@ -21,15 +21,15 @@
 <a href="mailto:bhuvanthangudu7@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bhuvanchandt">
 <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=7C3AED&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=bhuvanchandt&style=flat-square&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/bhuvanchandt?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/bhuvanchandt?style=flat-square&color=7C3AED&label=STARS"/>
 
 </div>
 
@@ -41,9 +41,9 @@ I am a **Penetration Tester and Security Researcher** specializing in **Web Appl
 
 I got into cybersecurity because I wanted to understand **how systems actually fail**, not just study vulnerabilities theoretically. My approach combines structured methodology with hands-on manual validation, allowing me to understand an application's attack surface, identify weaknesses, validate their real-world impact, and provide remediation guidance that development teams can act on.
 
-I have worked on **20+ web application and network penetration testing engagements**, identifying and validating vulnerabilities across client environments using industry-standard security methodologies and tools. My experience includes testing for **SQL Injection, Cross-Site Scripting (XSS), IDOR, SSRF, authentication bypasses, API security issues, and other OWASP Top 10 vulnerabilities**. :contentReference[oaicite:0]{index=0}
+I have worked on **20+ web application and network penetration testing engagements**, identifying and validating vulnerabilities across client environments using industry-standard security methodologies and tools. My experience includes testing for **SQL Injection, Cross-Site Scripting (XSS), IDOR, SSRF, authentication bypasses, API security issues, and other OWASP Top 10 vulnerabilities**.
 
-I also have experience producing **15+ risk-rated vulnerability assessment reports**, translating technical findings into practical remediation steps and business-impact-focused recommendations. :contentReference[oaicite:1]{index=1}
+I also have experience producing **15+ risk-rated vulnerability assessment reports**, translating technical findings into practical remediation steps and business-impact-focused recommendations.
 
 ### Cybersecurity Expertise
 
@@ -142,7 +142,7 @@ My objective is to help security teams and organizations understand **how an att
 
 ### Overview
 
-Executed **20+ web application penetration testing engagements** using OWASP methodology to identify and validate critical security weaknesses across client environments. :contentReference[oaicite:2]{index=2}
+Executed **20+ web application penetration testing engagements** using OWASP methodology to identify and validate critical security weaknesses across client environments.
 
 | Category | Details |
 |---|---|
@@ -171,7 +171,7 @@ Executed **20+ web application penetration testing engagements** using OWASP met
 
 ### Overview
 
-Performed **2 network penetration testing engagements**, applying structured reconnaissance, enumeration, exploitation and post-exploitation techniques to identify weaknesses and map potential attack paths. :contentReference[oaicite:3]{index=3}
+Performed **2 network penetration testing engagements**, applying structured reconnaissance, enumeration, exploitation and post-exploitation techniques to identify weaknesses and map potential attack paths.
 
 | Category | Details |
 |---|---|
@@ -198,7 +198,7 @@ Performed **2 network penetration testing engagements**, applying structured rec
 
 ### Overview
 
-Identified **40+ OWASP Top 10 vulnerabilities** during manual penetration testing of live web applications, including SQL Injection, XSS, IDOR, SSRF and authentication bypass vulnerabilities. :contentReference[oaicite:4]{index=4}
+Identified **40+ OWASP Top 10 vulnerabilities** during manual penetration testing of live web applications, including SQL Injection, XSS, IDOR, SSRF and authentication bypass vulnerabilities.
 
 | Category | Details |
 |---|---|
@@ -228,7 +228,7 @@ Identified **40+ OWASP Top 10 vulnerabilities** during manual penetration testin
 
 ### Overview
 
-Authored **15+ risk-rated vulnerability assessment reports** containing technical evidence, impact analysis and prioritized remediation guidance. :contentReference[oaicite:5]{index=5}
+Authored **15+ risk-rated vulnerability assessment reports** containing technical evidence, impact analysis and prioritized remediation guidance.
 
 | Category | Details |
 |---|---|
@@ -260,7 +260,7 @@ Authored **15+ risk-rated vulnerability assessment reports** containing technica
 
 **August 2026 — Present · Vrindavan**
 
-As a Security Researcher at Bramhastra Cyber Security, I specialize in **web application and API penetration testing**, identifying and validating authentication flaws and API security issues while contributing to efficient black-box VAPT workflows. :contentReference[oaicite:6]{index=6}
+As a Security Researcher at Bramhastra Cyber Security, I specialize in **web application and API penetration testing**, identifying and validating authentication flaws and API security issues while contributing to efficient black-box VAPT workflows.
 
 #### Scope of Work
 
@@ -282,7 +282,7 @@ As a Security Researcher at Bramhastra Cyber Security, I specialize in **web app
 
 **February 2026 — Present**
 
-Executed **20+ web application and 2 network penetration testing engagements**, applying OWASP methodology to uncover and validate critical security weaknesses across client environments. :contentReference[oaicite:7]{index=7}
+Executed **20+ web application and 2 network penetration testing engagements**, applying OWASP methodology to uncover and validate critical security weaknesses across client environments.
 
 #### Scope of Work
 
@@ -305,7 +305,7 @@ Executed **20+ web application and 2 network penetration testing engagements**, 
 
 **December 2024 — March 2025 · Vadodara**
 
-Performed manual penetration testing of live web applications and identified **40+ OWASP Top 10 vulnerabilities**, including SQL Injection, XSS, IDOR, SSRF and authentication bypass. :contentReference[oaicite:8]{index=8}
+Performed manual penetration testing of live web applications and identified **40+ OWASP Top 10 vulnerabilities**, including SQL Injection, XSS, IDOR, SSRF and authentication bypass.
 
 #### Scope of Work
 
@@ -382,31 +382,7 @@ Certification focused on offensive security, red-team methodology and practical 
 
 **September 2021 — March 2025**
 
-Focused academic background in Computer Science and Engineering with a specialization in **Cybersecurity**. :contentReference[oaicite:9]{index=9}
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
+Focused academic background in Computer Science and Engineering with a specialization in **Cybersecurity**.
 
 ---
 
@@ -414,9 +390,9 @@ Focused academic background in Computer Science and Engineering with a specializ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhuvanchandt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=bhuvanchandt&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
 
 </div>
 
@@ -424,7 +400,7 @@ Focused academic background in Computer Science and Engineering with a specializ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanchandt&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
 
 </div>
 
@@ -434,7 +410,7 @@ Focused academic background in Computer Science and Engineering with a specializ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bhuvanchandt&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
 
 </div>
 
@@ -444,17 +420,7 @@ Focused academic background in Computer Science and Engineering with a specializ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanchandt&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
 
 </div>
 
