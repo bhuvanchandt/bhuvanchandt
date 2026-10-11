@@ -1,2 +1,3 @@
-MARKER_TYPED_OK
+MARKER_PASTE_OK
 second line
+third line
