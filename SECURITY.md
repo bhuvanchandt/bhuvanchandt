@@ -1,2 +1,2 @@
-MARKER_XYZ_123
-line two
+MARKER_TYPED_OK
+second line
